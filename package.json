@@ -1,0 +1,24 @@
+{
+  "name": "@joshmeads/use-gesture-velocity",
+  "version": "1.0.0",
+  "description": "React hook for providing gesture velocity on drag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshmeads/use-gesture-velocity.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "velocity"
+  ],
+  "author": "Josh Meads",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshmeads/use-gesture-velocity/issues"
+  },
+  "homepage": "https://github.com/joshmeads/use-gesture-velocity#readme"
+}
