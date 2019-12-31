@@ -1,6 +1,6 @@
 {
   "name": "@joshmeads/use-gesture-velocity",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "React hook for providing gesture velocity on drag",
   "main": "index.js",
   "scripts": {
